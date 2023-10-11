@@ -1,0 +1,26 @@
+C:\Users\ncmik\source\repos\DataMan\WindowsUI\obj\Debug\WindowsUI.csproj.AssemblyReference.cache
+C:\Users\ncmik\source\repos\DataMan\WindowsUI\obj\Debug\WindowsUI.Form1.resources
+C:\Users\ncmik\source\repos\DataMan\WindowsUI\obj\Debug\WindowsUI.Properties.Resources.resources
+C:\Users\ncmik\source\repos\DataMan\WindowsUI\obj\Debug\WindowsUI.csproj.GenerateResource.cache
+C:\Users\ncmik\source\repos\DataMan\WindowsUI\obj\Debug\WindowsUI.csproj.CoreCompileInputs.cache
+C:\Users\ncmik\source\repos\DataMan\WindowsUI\bin\Debug\WindowsUI.exe.config
+C:\Users\ncmik\source\repos\DataMan\WindowsUI\bin\Debug\WindowsUI.exe
+C:\Users\ncmik\source\repos\DataMan\WindowsUI\bin\Debug\WindowsUI.pdb
+C:\Users\ncmik\source\repos\DataMan\WindowsUI\bin\Debug\ClassLibrary.dll
+C:\Users\ncmik\source\repos\DataMan\WindowsUI\bin\Debug\ClassLibrary.pdb
+C:\Users\ncmik\source\repos\DataMan\WindowsUI\obj\Debug\WindowsUI.csproj.CopyComplete
+C:\Users\ncmik\source\repos\DataMan\WindowsUI\obj\Debug\WindowsUI.exe
+C:\Users\ncmik\source\repos\DataMan\WindowsUI\obj\Debug\WindowsUI.pdb
+D:\Systems Analysis\DataMan\WindowsUI\bin\Debug\WindowsUI.exe.config
+D:\Systems Analysis\DataMan\WindowsUI\bin\Debug\WindowsUI.exe
+D:\Systems Analysis\DataMan\WindowsUI\bin\Debug\WindowsUI.pdb
+D:\Systems Analysis\DataMan\WindowsUI\bin\Debug\ClassLibrary.dll
+D:\Systems Analysis\DataMan\WindowsUI\bin\Debug\ClassLibrary.pdb
+D:\Systems Analysis\DataMan\WindowsUI\obj\Debug\WindowsUI.csproj.AssemblyReference.cache
+D:\Systems Analysis\DataMan\WindowsUI\obj\Debug\WindowsUI.Form1.resources
+D:\Systems Analysis\DataMan\WindowsUI\obj\Debug\WindowsUI.Properties.Resources.resources
+D:\Systems Analysis\DataMan\WindowsUI\obj\Debug\WindowsUI.csproj.GenerateResource.cache
+D:\Systems Analysis\DataMan\WindowsUI\obj\Debug\WindowsUI.csproj.CoreCompileInputs.cache
+D:\Systems Analysis\DataMan\WindowsUI\obj\Debug\WindowsUI.csproj.CopyComplete
+D:\Systems Analysis\DataMan\WindowsUI\obj\Debug\WindowsUI.exe
+D:\Systems Analysis\DataMan\WindowsUI\obj\Debug\WindowsUI.pdb
