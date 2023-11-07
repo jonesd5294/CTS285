@@ -24,3 +24,21 @@ D:\Systems Analysis\DataMan\WindowsUI\obj\Debug\WindowsUI.csproj.CoreCompileInpu
 D:\Systems Analysis\DataMan\WindowsUI\obj\Debug\WindowsUI.csproj.CopyComplete
 D:\Systems Analysis\DataMan\WindowsUI\obj\Debug\WindowsUI.exe
 D:\Systems Analysis\DataMan\WindowsUI\obj\Debug\WindowsUI.pdb
+C:\Users\ncmik\Desktop\DataMan\WindowsUI\bin\Debug\Login.mdf
+C:\Users\ncmik\Desktop\DataMan\WindowsUI\bin\Debug\Login_log.ldf
+C:\Users\ncmik\Desktop\DataMan\WindowsUI\bin\Debug\WindowsUI.exe.config
+C:\Users\ncmik\Desktop\DataMan\WindowsUI\bin\Debug\WindowsUI.exe
+C:\Users\ncmik\Desktop\DataMan\WindowsUI\bin\Debug\WindowsUI.pdb
+C:\Users\ncmik\Desktop\DataMan\WindowsUI\bin\Debug\ClassLibrary.dll
+C:\Users\ncmik\Desktop\DataMan\WindowsUI\bin\Debug\ClassLibrary.pdb
+C:\Users\ncmik\Desktop\DataMan\WindowsUI\obj\Debug\WindowsUI.csproj.AssemblyReference.cache
+C:\Users\ncmik\Desktop\DataMan\WindowsUI\obj\Debug\WindowsUI.Form1.resources
+C:\Users\ncmik\Desktop\DataMan\WindowsUI\obj\Debug\WindowsUI.Login.resources
+C:\Users\ncmik\Desktop\DataMan\WindowsUI\obj\Debug\WindowsUI.Properties.Resources.resources
+C:\Users\ncmik\Desktop\DataMan\WindowsUI\obj\Debug\WindowsUI.csproj.GenerateResource.cache
+C:\Users\ncmik\Desktop\DataMan\WindowsUI\obj\Debug\WindowsUI.csproj.CoreCompileInputs.cache
+C:\Users\ncmik\Desktop\DataMan\WindowsUI\obj\Debug\WindowsUI.csproj.CopyComplete
+C:\Users\ncmik\Desktop\DataMan\WindowsUI\obj\Debug\WindowsUI.exe
+C:\Users\ncmik\Desktop\DataMan\WindowsUI\obj\Debug\WindowsUI.pdb
+C:\Users\ncmik\Desktop\DataMan\WindowsUI\obj\Debug\WindowsUI.MainMenu.resources
+C:\Users\ncmik\Desktop\DataMan\WindowsUI\obj\Debug\WindowsUI.NumberGuesser.resources

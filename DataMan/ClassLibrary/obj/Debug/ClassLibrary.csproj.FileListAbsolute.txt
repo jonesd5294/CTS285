@@ -10,3 +10,9 @@ D:\Systems Analysis\DataMan\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyR
 D:\Systems Analysis\DataMan\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
 D:\Systems Analysis\DataMan\ClassLibrary\obj\Debug\ClassLibrary.dll
 D:\Systems Analysis\DataMan\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\ncmik\Desktop\DataMan\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\ncmik\Desktop\DataMan\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\ncmik\Desktop\DataMan\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\ncmik\Desktop\DataMan\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ncmik\Desktop\DataMan\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\ncmik\Desktop\DataMan\ClassLibrary\obj\Debug\ClassLibrary.pdb
